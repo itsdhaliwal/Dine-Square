@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Dine-Square/static/css/main.2d0f694a.chunk.css",
+    "main.js": "/Dine-Square/static/js/main.f438c18f.chunk.js",
+    "main.js.map": "/Dine-Square/static/js/main.f438c18f.chunk.js.map",
+    "runtime-main.js": "/Dine-Square/static/js/runtime-main.f27ccd3c.js",
+    "runtime-main.js.map": "/Dine-Square/static/js/runtime-main.f27ccd3c.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Dine-Square/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.7b4e2d98.chunk.js": "/Dine-Square/static/js/2.7b4e2d98.chunk.js",
+    "static/js/2.7b4e2d98.chunk.js.map": "/Dine-Square/static/js/2.7b4e2d98.chunk.js.map",
+    "index.html": "/Dine-Square/index.html",
+    "precache-manifest.e0a421a67ccedb4712657c2f60a055ac.js": "/Dine-Square/precache-manifest.e0a421a67ccedb4712657c2f60a055ac.js",
+    "service-worker.js": "/Dine-Square/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Dine-Square/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.2d0f694a.chunk.css.map": "/Dine-Square/static/css/main.2d0f694a.chunk.css.map",
+    "static/js/2.7b4e2d98.chunk.js.LICENSE": "/Dine-Square/static/js/2.7b4e2d98.chunk.js.LICENSE",
+    "static/media/mainvid.mp4": "/Dine-Square/static/media/mainvid.5c2ddbcd.mp4",
+    "static/media/newbg.jpg": "/Dine-Square/static/media/newbg.4241bfd3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f27ccd3c.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.7b4e2d98.chunk.js",
+    "static/css/main.2d0f694a.chunk.css",
+    "static/js/main.f438c18f.chunk.js"
+  ]
+}
