@@ -1,0 +1,48 @@
+.main {
+  text-align: center;
+  animation: fadeInAnimation ease 5s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+  color: rgb(255,255,255);
+  font-family: sans-serif;
+}
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.bg {
+  top: 7%;
+  left: 0;
+  background-image: url("./newbg.jpg");
+  filter: brightness(100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0px 25%;
+  width: 100%;
+  height: 100%;
+  z-index: -5;
+}
+.dark{
+  background-color: rgb(26, 23, 23);
+}
+.header {
+  width: 100%;
+  height: 500px;
+}
+.header-contents {
+  width: 100%;
+  height: 100%;
+}
+/*  .card-title:hover {
+      transition: all .2s ease-in-out; 
+transform: scale(1.1); 
+  }*/
+
+.menutitlecard {
+  height: 490px;
+}

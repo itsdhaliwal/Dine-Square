@@ -1,0 +1,48 @@
+.customButton {
+  background-color: cadetblue;
+  color: white;
+  border: solid;
+  border-color: lightgray;
+  border-width: 1px;
+}
+.card-titlebackground {
+  background-color: rgba(0, 0, 0, 0.9);
+  filter: blur(15px);
+  position: relative;
+  width: 120%;
+  height: 100%;
+  top: -100%;
+  left: -10%;
+}
+.card-titletext {
+  position: relative;
+  transition: transform 0.4s;
+  z-index: 2;
+}
+.card-bodybackground {
+  background-color: rgba(0, 0, 0, 0.9);
+  filter: blur(15px);
+  position: relative;
+  width: 120%;
+  height: 100%;
+  top: -100%;
+  left: -10%;
+}
+.card-bodytext {
+  position: relative;
+  z-index: 2;
+}
+.card-titletext:hover {
+  transform: scale(1.1);
+}
+.count {
+  font-size: 1rem;
+  width: 48px;
+}
+
+.sub {
+  font-size: 1rem;
+}
+.add {
+  font-size: 1rem;
+}
